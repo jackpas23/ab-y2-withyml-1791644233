@@ -1,0 +1,6 @@
+auditbase:
+  include:
+    - "contracts/**/*.sol"
+  exclude:
+    - "test/**"
+    - "**/*.t.sol"
